@@ -1,0 +1,11 @@
+Name: Alex Ntumba Kapajika
+Grade: 68
+IEP: Yes
+
+Empty line.
+Name: Alexander Arnold II
+Grade: 78
+IEP: No
+
+Empty line.
+Invalid student data.
